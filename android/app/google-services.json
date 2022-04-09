@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "379935005518",
+    "project_id": "latihanflutter-97689",
+    "storage_bucket": "latihanflutter-97689.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379935005518:android:c7da4fc1da18e6000a1c1f",
+        "android_client_info": {
+          "package_name": "com.example.latihansoal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379935005518-gbiol7hukhlt040fo33vrpv07n4r306a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm1Fyysl3OEhQfhxDcqGUIkTtWKY372TM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379935005518-gbiol7hukhlt040fo33vrpv07n4r306a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
